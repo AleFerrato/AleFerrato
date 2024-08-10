@@ -2,7 +2,7 @@
 - 👀 I’m interested being web developer...
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love making and listening music
+- ⚡ Fun fact: I love making and playing videogames as hobby 
 
 <!---
 AleFerrato/AleFerrato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
