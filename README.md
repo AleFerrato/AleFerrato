@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleFerrato
-- 👀 I’m interested being web developer...
+- 👀 I’m interested to being a web developer...
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love making websites, making videogames and some audio stuff as hobby 😁 
