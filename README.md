@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleFerrato
 - 👀 I’m interested to being a game developer...
-- 🌱 I’m currently learning Python with libraries and frameworks!
+- 🌱 I’m currently learning Python with some libraries and frameworks!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love making videogames and some audio stuff as hobby 😁 
 
