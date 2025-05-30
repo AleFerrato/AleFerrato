@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AleFerrato
-- 👀 I’m interested to being a game developer...
-- 🌱 I’m currently learning Python with some libraries and frameworks!
-- ⚡ Fun fact: i love making websites, videogame and some audio stuff as hobby 😁 
+- 👋 Hi, My name is alessandro!
+- 👀 I’m interested to being a Web and Game dev!
+- 🌱 I’m currently learning HTML, CSS, Javascript and React in this year (2025)!
+- ⚡ Fun fact: Loving making websites, loving while playing and making some games and some audio stuff as hobby (using LMMS and PureData) 😁 
 
 <!---
 AleFerrato/AleFerrato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
